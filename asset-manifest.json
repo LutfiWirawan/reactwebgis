@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/LutfiWirawan/reactwebgis/static/css/main.abe0af40.css",
-    "main.js": "/LutfiWirawan/reactwebgis/static/js/main.a267b3b1.js",
-    "static/js/483.c76bcd9d.chunk.js": "/LutfiWirawan/reactwebgis/static/js/483.c76bcd9d.chunk.js",
-    "static/js/787.6904c965.chunk.js": "/LutfiWirawan/reactwebgis/static/js/787.6904c965.chunk.js",
-    "static/media/Bengek.png": "/LutfiWirawan/reactwebgis/static/media/Bengek.e1cf08e1dceeee6faf66.png",
-    "static/media/Lokal_Primer.geojson": "/LutfiWirawan/reactwebgis/static/media/Lokal_Primer.f6137dfcbf2dfb7d0a61.geojson",
-    "static/media/Kolektor_Primer.geojson": "/LutfiWirawan/reactwebgis/static/media/Kolektor_Primer.e6debb7be21abdaf0492.geojson",
-    "static/media/Arteri_Primer.geojson": "/LutfiWirawan/reactwebgis/static/media/Arteri_Primer.f77003dea377d2f9ef8d.geojson",
-    "static/media/administrasi.geojson": "/LutfiWirawan/reactwebgis/static/media/administrasi.c0917dcffb440e17b307.geojson",
-    "static/media/gombong.geojson": "/LutfiWirawan/reactwebgis/static/media/gombong.3794b3176136caba296e.geojson",
-    "index.html": "/LutfiWirawan/reactwebgis/index.html",
-    "main.abe0af40.css.map": "/LutfiWirawan/reactwebgis/static/css/main.abe0af40.css.map",
-    "main.a267b3b1.js.map": "/LutfiWirawan/reactwebgis/static/js/main.a267b3b1.js.map",
-    "483.c76bcd9d.chunk.js.map": "/LutfiWirawan/reactwebgis/static/js/483.c76bcd9d.chunk.js.map",
-    "787.6904c965.chunk.js.map": "/LutfiWirawan/reactwebgis/static/js/787.6904c965.chunk.js.map"
+    "main.css": "/reactwebgis/static/css/main.abe0af40.css",
+    "main.js": "/reactwebgis/static/js/main.fdd8c3e6.js",
+    "static/js/483.fcfd972a.chunk.js": "/reactwebgis/static/js/483.fcfd972a.chunk.js",
+    "static/js/787.6904c965.chunk.js": "/reactwebgis/static/js/787.6904c965.chunk.js",
+    "static/media/Bengek.png": "/reactwebgis/static/media/Bengek.e1cf08e1dceeee6faf66.png",
+    "static/media/Lokal_Primer.geojson": "/reactwebgis/static/media/Lokal_Primer.f6137dfcbf2dfb7d0a61.geojson",
+    "static/media/Kolektor_Primer.geojson": "/reactwebgis/static/media/Kolektor_Primer.e6debb7be21abdaf0492.geojson",
+    "static/media/Arteri_Primer.geojson": "/reactwebgis/static/media/Arteri_Primer.f77003dea377d2f9ef8d.geojson",
+    "static/media/administrasi.geojson": "/reactwebgis/static/media/administrasi.c0917dcffb440e17b307.geojson",
+    "static/media/gombong.geojson": "/reactwebgis/static/media/gombong.3794b3176136caba296e.geojson",
+    "index.html": "/reactwebgis/index.html",
+    "main.abe0af40.css.map": "/reactwebgis/static/css/main.abe0af40.css.map",
+    "main.fdd8c3e6.js.map": "/reactwebgis/static/js/main.fdd8c3e6.js.map",
+    "483.fcfd972a.chunk.js.map": "/reactwebgis/static/js/483.fcfd972a.chunk.js.map",
+    "787.6904c965.chunk.js.map": "/reactwebgis/static/js/787.6904c965.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abe0af40.css",
-    "static/js/main.a267b3b1.js"
+    "static/js/main.fdd8c3e6.js"
   ]
 }
